@@ -1,5 +1,6 @@
-# Object file
-*.o
+# Local .terraform directories
+ **/.terraform/*
 
-# Ada Library Information
-*.ali
+
+
+**/.DS_Store
